@@ -218,4 +218,4 @@ FileVerifier++ is available as a full free version, with all features and update
 Start ensuring your files' integrity today! Download FileVerifier++ for free and experience worry-free file management.
 
 ---
-**Last updated:** 2026-11-13 18:22:36 UTC
+**Last updated:** 2026-11-14 00:10:15 UTC
